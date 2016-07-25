@@ -1,9 +1,9 @@
 {
     "auth_service": "google",
-    "username": "YOURACCOUNT@gmail.com",
-    "password": "YOURPASSWORD",
-    "location": "SOME LOCATION",
-    "gmapkey": "AGMAPAPIKEY",
+    "username": "trenggalek",
+    "password": "klik123kali",
+    "location": "sydney, australia",
+    "gmapkey": "AIzaSyDGRzsKm_6yZlngIkJDwSG7BYkynMCbMRw",
     "max_steps": 5,
     "mode": "all",
     "walk": 4.16,
